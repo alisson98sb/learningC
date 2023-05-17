@@ -1,0 +1,8 @@
+Declarar variaveis
+    produto1, produto2, produto3, valopraPagar, formadepagamento
+ler o preço dos 3 produtos e a forma de pagamento. 
+    Se a forma for inválida mostra menssagem de erro e ler novamente a forma de pagamento.
+se forma de pagamento == 1 parcelar produto em 5x com 15% de juros.
+se forma de pagamento == 2 parcelar produto em 12x com 22% de juros.  
+se forma de pagamento == 3 o valor permanece o mesmo, total. 
+Se forma de pagamento for diferente desses valores, exibir erro e ler variével novamente,
