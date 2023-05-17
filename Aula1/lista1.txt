@@ -1,0 +1,342 @@
+1 - TROCAR UMA LâMPADA
+-> Início
+-> Pegar uma escada.
+-> Levar a escada direção ao bocal.
+-> Abrir a escada em baixo do bocal.
+-> Subir na escada.
+-> Retirar a lampada quimada.
+-> Descer da escada segurando a lampada.
+-> Ir até o lixo.
+-> Abrir o lixo.
+-> Descartar a lampada queimada.
+-> Fechar o lixo.
+-> Ir até o armario onde esta a lampada nova.
+-> Abrir o armario.
+-> Pegar a lampada nova.
+-> Fechar o armário.
+-> Abrir a embalagem.
+-> Sagurar a embalagem com uma mão e a lampada com outra mao.
+-> Ir até o lixo.
+-> Abrir o lixo.
+-> jogar a embalagem no lixo.
+-> Fechar o lixo.
+-> Ir até a esacada.
+-> Subir na escada.
+-> Colocar a lampada no bocal.
+-> Descer da escada.
+-> Ir até o interruptor.
+-> Testar a lampada. 
+-> Voltar até a escada.
+-> Fechar a escada.
+-> Guardar a escada. 
+-> Fim.
+
+
+2 - FAZER UM MIOJO.
+-> Ir até o armario da cozinha onde ficam as panelas.
+-> Abrir o armário. 
+-> Pegar a panela. 
+-> Fechar o armário.
+-> Ir até a pia. 
+-> Abrir a torneira.
+-> Colocar na panela a quantidade necessária para fazer o miojo.
+-> Fechar a torneira. 
+-> Pegar a panela. 
+-> Levar até o fogão.
+-> Girar o registro de gás.
+-> Apertar no botão de faisca.
+-> Varificar se acendeu o fogo.
+-> Deixar a agua atingir a temperatura ideal.
+-> Ir até o armario que está o miojo. 
+-> Abrir o armário. 
+-> Pegar o miojo. 
+-> Fechar o armário. 
+-> Ir até o fogão. 
+-> Abrir o pacote de miojo. 
+-> Segurando o pacote de miojo com uma mão, pegar o sache com a outra. 
+-> Deixar o sache no balcão. 
+-> Colocar o conteudo do pacote (miojo) na agua. 
+-> Ir até o lixo.
+-> Abrir o lixo.
+-> Jogar a embalagem fora. 
+-> Fechar o lixo. 
+-> Aguardar o tempo para o miojo ficar pronto.
+-> Ir ao fogão.
+-> Desligar o botão do fogo.
+-> Ir ao armário dos pratos.
+-> Abrir o armário.
+-> Pegar um prato com uma mão. 
+-> Fechar o Armário com a outra mão. 
+-> Ir até o fogão. 
+-> Pegar a panela com a mão que não esta segurando o prato. 
+-> Ir até a pia.
+-> Despejar a agua na pia. 
+-> Despejar o miojo no prato .
+-> Deixar a panela na pia.
+-> Deixar o prato no balcao da pia.
+-> Pegar o sashe de tempero. 
+-> Abrir o sashe de tempero.
+-> Despejar o conteudo sobe o miojo.
+-> Ir até o lixo.
+-> Abrir o lixo.
+-> Jogar a embalagem do sashe fora. 
+-> Fechar o lixo.
+-> Ir até a gaveta de talheres. 
+-> Abrir a gaveta. 
+-> Pegar os talheres. 
+-> Fechar a gaveta.
+-> Colocar os talheres no prato com o miojo.
+-> Fim
+
+
+3 - ESCOVAR OS DENTES.
+-Inicio
+-> Ir até o banheiro. 
+-> Ir até a pia do banheiro.
+-> Abrir o armario que contém a escova e a pasta de dente. 
+-> Pegar a pasta de dentes.
+-> Abrir a tampa da pasta. 
+-> Colocar a tampa da pasta no balcão da pia. 
+-> Enquanto segura a pasta, pegar escova de dentes no armário.
+-> Passar a pasta na escova de dentres. 
+-> Soltar a pasta no balcão da pia. 
+-> Abrir a torneira. 
+-> Molhar a pasta que esta na escova. 
+-> Fechar a torneira. 
+-> Abrir a boca.
+-> Levar a escova à boca.
+-> Fechar a boca. 
+-> Escovar os dentes.
+-> Deixar a escova presa na boca.
+-> Pegar a pasta de dentes com uma mão.
+-> Pegar a tampa da pasta com a outra mão.
+-> Fechar a pasta. 
+-> Guardar a pasta no armário aberto. 
+-> Após escovar os dentes.
+-> Segurar a escova. 
+-> Abrir a boca. 
+-> Retirar a escova da boca. 
+-> Com a outra mão, abrir a torneira da pia. 
+-> Cuspir a pasta, que esta na sua boca, na pia.
+-> Com a mão livre, fazer um formato de concha com sua mão. 
+-> Leve sua mão livre até embaixo da torneira. 
+-> Quando estiver com bastande agua, levar a agua da sua mão até a sua boca.
+-> Fechar a boca. 
+-> Movimentar sua bochecha com o ar da sua boca para lavar bem. 
+-> Abrir a boca. 
+-> Cuspir o resto de pasta no ralo da pia. 
+-> Lavar a escova de dentes. 
+-> Fechar a torneira. 
+-> Guardar a escova no armário. 
+-> Fechar o armário. 
+-> Fim
+
+
+
+
+4 - TROCAR O  CONTEÚDO DE DOIS COPOS.
+-> Início.
+-> Pegar um terceiro copo.
+-> Colocar na mesa junto aos 2 copos com conteúdo dentro.
+-> Pegar o primeiro copo cheio.
+-> Despejar o conteúdo do primeiro copo no terceiro copo.
+-> Colocar o primeiro copo na mesa.
+-> Pegar o segundo copo cheio.
+-> Despejar o conteúdo do segundo copo no primeiro copo (que está vazio agora).
+-> colocar o segundo copo na mesa.
+-> Pegar o terceiro copo (que está com o conteudo do primeiro copo).
+-> Despejar o conteudo no segundo copo (que está vazio).
+-> Colocar o terceiro copo na mesa.
+-> Fim
+
+
+
+5 - GUARDAR O CARRO NA GARAGEM. 
+-> Início
+-> Pegue a chave do carro.
+-> Saia de casa.
+-> Vai até o carro.
+-> Destranca o carro. 
+-> Abre a porta do carro. 
+-> Entra no carro.
+-> Fecha a porta do carro.
+-> Coloca o sinto de segurança.
+-> Coloca a chave na ignição. 
+-> Pise na embreagem com o pé esquerdo.
+-> Coloca em ponto morto. 
+-> De partida no carro. 
+-> Engate a primeira. 
+-> Pise no freio com o pé direito. 
+-> Solte o freio-de-mão.
+-> Coloca as mãos no volante.
+-> Vai soltando a embreagem e o feio aos poucos até o carro começar a andar. 
+-> Tire o pé direito do freio.
+-> Pise moderadamente no acelerador com o pé direito. 
+-> Tira o pe da embreagem no tempo certo. 
+-> Posicione o carro em frente a garagem.
+-> Pise na embreagem com o pé esquerdo.
+-> Pise no freio com o pé direito.
+-> Aperte o controle para abrir o portão da garagem. 
+-> Aguarde o portão abrir.
+-> Solte o pé esquerdo da embreagem e o direito do freio aos poucos até o carro começar a andar.
+-> Tire o pé direito do freio.
+-> Pise moderadamente no acelerador com o pé direito. 
+-> Tire totalmente o pé esquedo da embreagem. 
+-> Entre com o carro na garagem. 
+-> Tire o pé direiro do acelerador e pise na embreagem com o pé esquerdo quando estiver quase na vaga. 
+-> Freie quando já estiver posicionado na vaga.
+-> Desengate o carro.
+-> Puche o freio de mão. 
+-> Desligue o carro.
+-> Tire o pé do freio.
+-> Aperte o controle para fechar o portão. 
+-> Tire o pé da embreagem.
+-> Tire o sinto de segurança.
+-> Tire a chave da ignição com a mão direita.
+-> Abra a porta do carro com a mão esquerda.
+-> Saia do carro. 
+-> Feche a porta do carro. 
+-> Tranque o carro.
+-> Final.
+
+
+6 - FAZER UM SANDUICHE.
+-> Inicio.
+-> Ir até a cozinha.
+-> Abra o armário onde está os pães.
+-> Pegue o saco de pães.
+-> Abra o saco de pães.
+-> Pegue os 2 pães para fazer o sanduiche.
+-> Coloque os pães na pia.
+-> Feche o saco de pães.
+-> Guarde o saco de pães no armário.
+-> Feche o armário.
+-> Vá até a geladeira.
+-> Abra a geladeira. 
+-> Pegue o pote com queijo e presunto com uma mão.
+-> Pegue o requeijão com a outra mão.
+-> Coloque tudo na pia.
+-> Volte até a geladeira.
+-> Feche a porta da geladeira.
+-> Vá até a gaveta de talheres.
+-> Abra a gaveta.
+-> Pegue uma faca com uma mão.
+-> Feche a gaveta com outra mão.
+-> Coloque a faca na pia.
+-> Abra o pote de requeijão.
+-> Coloque a tampa na pia.
+-> Segure o pote de requeijão com uma mão.
+-> Pegue a faca com a outra mão.
+-> Passe a faca no requeijão.
+-> Com a mão que estava segurando o pote de requeijão, pegue 1 pão.
+-> Passe o requeijão no pão.
+-> Coloque a faca na pia.
+-> Coloque o pão na pia com o lado do requeijão para cima.
+-> Pegue o pote de queijo e presunto.
+-> Abra a tampa do pote.
+-> Coloque a tampa na pia. 
+-> Segurando o pote com uma mão, pegue uma fatia de queijo com a outra mão. 
+-> Coloque a fatia no pão. 
+-> Pegue uma fatia de presunto.
+-> Coloque no pão. 
+-> Pegue a tampa do pote.
+-> Tampe o pote.
+-> Coloque o pote na pia.
+-> Junte os dois pães já recheados.
+-> Deixe-o na pia.
+-> Vá até a geladeira.
+-> Abra a porta da geladeira.
+-> Volte até a pia.
+-> Pegue o pote de frios com uma mão e o pote de requeijão com a outra mão.
+-> Leve-os até a geladeira.
+-> Feche a porta da geladeira.
+-> Fim
+
+
+7 - TROCAR O PNEU DO CARRO. 
+-> Inicio 
+-> Pegue a chave do carro.
+-> Vá até o carro.
+-> Desative o alarme do carro.
+-> Vá até o porta-malas.
+-> Abra o porta-malas. 
+-> Erga a tampa inferior do porta-malas com uma mão.
+-> Pegue o estepe com a outra mão.
+-> Solte a tampa inferior do porta-malas.
+-> Leve até o pneu que vai ser trocado.
+-> Deixe o estepe no chão, ao lado. 
+-> Volte até o porta-malas. 
+-> Erga a tampa inferior do porta-malas com uma mão.
+-> Pegue o macaco com uma mão. 
+-> Solte a tampa inferior do porta-malas.
+-> Deixe-o no chão perto do porta-malas mesmo. 
+-> Erga a tampa inferior do porta-malas com uma mão. 
+-> Pegue a chave de roda com uma mão. 
+-> Solte a tampa inferior do porta-malas. 
+-> Pegue o macaco no chão com a outra mão. 
+-> Leve-os para próximo ao pneu que vai ser trocado.
+-> Deixe tudo no chão. 
+-> Volte e feche o porta-malas. 
+-> Va até onde está o pneu a ser trocado. 
+-> Pegue a chave de rodas. 
+-> Solte os parafusos da roda. 
+-> Solte a chave no chão. 
+-> Pegue o macaco. 
+-> Posicione o macaco no lugar correto.
+-> Gire a manivela do macaco até levantar o carro no ponto em que o pneu desencoste do chão.
+-> Retire o pneu a ser trocado e deixe-o no canto. 
+-> Pegue o estepe. 
+-> Coloque-o na posição. 
+-> Coloque os parafusos na roda que colocou no carro. 
+-> Aperte levemente, pode ser com a mão mesmo. 
+-> Volte a manivela do macaco até ele desencostar do carro. 
+-> Deixe o macaco de lado. 
+-> Pegue a chave de rodas. 
+-> Aperte os parafuso da roda. 
+-> Utilize o peso do seu corpo para apertar bem os parafusos. 
+-> Vá até o porta-malas. 
+-> Abra o porta-malas. 
+-> Volte até o local onde estdão a chave, o macaco e o estepe. 
+-> Pegue a Chave de rodas com uma mão.
+-> Pegue o Macaco com a outra mão. 
+-> Leve-os até perto do porta-malas. 
+-> Coloque o macaco no chão. 
+-> Com a mão que ficou livre, abra a tampa inferior do porta-malas. 
+-> Guarde a chave. 
+-> Solte a tampa inferior do porta-malas. 
+-> Pegue o macaco com uma mão. 
+-> Levante a tampa inferior do porta-malas.
+-> Guarde o macaco. 
+-> Solte a tampa inferior do porta-malas. 
+-> Busque o pneu que trocou. 
+-> Leve-o até o porta-malas. 
+-> Com uma mão, levante a tampa inferior do porta-malas. 
+-> Guarde o pneu no porta-malas. 
+-> Solte a tampa inferior do porta-malas. 
+-> Feche o porta-malas. 
+-> Fim
+
+
+
+8 - FAZER PIPOCA NO MICRO-ONDAS.
+-> Inicio.
+-> Vá até o armario onde está o pacote de pipoca.
+-> Abra o armário.
+-> Pegue o pacote.
+-> Feche o armário.
+-> Abra o pacote. 
+-> Pegue o conteudo. 
+-> Jogue a embalagem no lixo. 
+-> Vá até o microondas. 
+-> Abra a porta do microondas.
+-> Coloque o pacote de pipoca dentro do microondas com o lado correto pra cima. 
+-> Feche a porta do microondas.
+-> Clique no botão com o tempo necessário.
+-> Clique em iniciar.
+-> Aguarde o tempo necessário.
+-> Abra a porta do microondas. 
+-> Retire com cuidado o pacote.
+-> Abra uma parte do pacote para sair o vapor. 
+-> Deixe o pacote em cima da pia.
+-> Feche a tampa do microondas.
+-> Fim.

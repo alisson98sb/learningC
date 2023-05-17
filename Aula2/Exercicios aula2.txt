@@ -1,0 +1,141 @@
+// 1 – Acessar o nome e o sexo do usuário. Verificar se sexo = “F”. Em caso de verdade mostrar mensagem
+// “Parabéns pelo Dia da Mulher”.
+
+INICIO
+ler nome;
+ler sexo;
+SE sexo == "F" ENTÃO
+    Mostrar "Feliz dia das Mulheres" + nome;
+FIMSE;
+FIM;
+
+// 2 – Ir comprar pão na padaria e verificar se o troco está certo.
+
+INICIO
+entrar na padaria;
+ir ate o balcao;
+pedir a quantidade necessária de paes;
+ir até o caixa;
+
+ler preco;
+ler valor pago;
+ler troco;
+
+SE troco != (valor pago - preco)
+    Reclamar e solicitar o troco correto;
+    verificar o troco correto novamente;
+FIMSE 
+Sair da padaria;
+FIM;
+
+// 3 – Fazer um algoritmo que acesse 2 notas de prova. Faça os cálculos e informe a média. Verifique se o aluno
+// está aprovado ou de exame final. Obs. Para ser aprovado a média deve ser maior ou igual a 7
+
+INICIO 
+ler nota1;
+ler nota2;
+media = (nota1 + nota2) / 2;
+
+Mostrar media;
+
+SE (media < 7)
+    mostrar "Não atingiu a média";
+SENÃO 
+    mostrar "Atingiu a média";
+FIMSE;
+FIM;
+
+// 4 – Ir ao mercado e comprar 5 produtos a sua escolha. Após o calculo, informar o valor da compra. Verificar se
+// o valor a pagar for inferior a R$ 100,00 pagar em dinheiro e faça outro calculo para informar o troco, caso
+// contrário pagar com o cartão de crédito.
+
+INICIO
+ir até o mercado;
+escolher os 5 produtos;
+
+ler preco 1;
+ler preco 2;
+ler preco 3;
+ler preco 4;
+ler preco 5;
+ler valorPago;
+
+total = (preco 1 + preco 2 + preco 3 + preco 4 + preco 5);
+mostrar total;
+
+SE (total < 100)
+    pagar em dinheiro;
+    troco = (valorPago - total);
+    mostrar troco;
+SENÃO 
+    pagar com o cartão de crédito;
+FIMSE
+
+sair do mercado;
+FIM 
+
+
+
+// 5 – Acessar idade e sexo de uma pessoa e verificar se ela pode fazer o alistamento militar.
+
+INICIO 
+ler sexo;
+
+SE sexo == "M"
+    ler idade;
+    SE idade == 18
+        mostrar "Pode fazer alistamento";
+FIMSE;
+FIM;
+
+
+
+// 6 – Acessar a idade de 2 pessoas e verificar quem é o mais velho. Pode ser quer as pessoas tenham a mesma
+// idade.
+
+INICIO
+ler idade1;
+ler idade2;
+
+SE idade1 > idade 2 
+    mostrar "A pessoa com " +idade1+ "é o mais velho";
+SENÃO SE idade2 > idade1 
+    mostrar "A pessoa com " +idade2+ "é o mais velho";
+SENÃO
+    mostrar "As pessoas possuem a mesma idade";
+FIMSE
+FIM
+
+// 7 – Um cliente pede um chá. Verificar se o cliente prefere o chá gelado, morno ou quente. Testar a possibilidade
+// da escolha da opção errada.
+
+INICIO
+ler preferencia;
+
+SE preferencia == 1
+    finalizar o pedido com "Cha gelado";
+SENÃO SE preferencia == 2
+    finalizar o pedido com "morno";
+SENÃO SE preferencia == 3 
+    finalizar o pedido com "quente";
+SENÃO 
+    Avisar que o cliente deve pedir uma das opçoes informadas;
+    Verificar novamente a nova preferencia do cliente 
+FIMSE
+FIM
+
+
+// 8 – Acessar o salario de um funcionário. Se o salario for maior que 500, acessar o sexo. Se o sexo for = “F” dar
+// um bônus de 100.
+
+INICIO
+ler salario;
+
+SE salario > 500 
+    ler sexo; 
+    SE sexo == "F" 
+        salario + 100; 
+    FIMSE 
+FIMSE 
+Mostrar salario;
+FIM
