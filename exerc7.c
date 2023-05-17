@@ -12,7 +12,7 @@ void main () {
 	
 	printf("Opcoes: \n 1 � X-TUDO R$ 33,00 \n 2 - X-NADA R$ 12,00  \n 3 � X-SALADA R$25,00");
 	
-	printf("\n Informe a op��o de lanche desejado: ");
+	printf("\n Informe a opcao de lanche desejado: ");
 	scanf("%i", &op);
 	fflush(stdin);
 	
