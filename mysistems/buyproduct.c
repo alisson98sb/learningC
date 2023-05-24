@@ -14,27 +14,25 @@
 #include<stdlib.h>
 #include<locale.h>
 
-void calculapreco();
+int calculapreco();
 
-int cod, qtd, produtos = 0;
+int cod, qtd, mitems = 1;
 float vlr, vlrUnit; 
 char *cor[15];
 
 void main() {
   setlocale(LC_ALL, "");
 
-  printf("Informe quantos produtos distintos existem: ");
-  scanf("%i", &produtos);
-
-  for (size_t i = produtos; i > 0; i--)
+  for (size_t i = 0; mitems == 1; i++)
   {
-    calculapreco();
+    mitems = calculapreco();
   }
 
   printf("\n Valor Total da compra : %.2f \n", vlr);
 }
 
-void calculapreco(){
+int calculapreco()
+{
   printf("\n Digite o código do produto: \n");
   scanf("%i", &cod);
   fflush(stdin);
@@ -68,4 +66,15 @@ void calculapreco(){
   printf("\n Quantidade solicitada: %i", qtd);
   printf("\n Valor Parcial da compra : %.2f \n", vlr);
 
+  printf("\n Tem mais produtos para passar? \n [1] - SIM \n [2] - NÃO \n");
+  scanf("%i", &mitems);
+
+  if(mitems == 1) {
+    return 1;
+  } else if (mitems == 2){
+    return 2;
+  } else {
+    printf("Opção inválida");
+    return 0;
+  }
 }
