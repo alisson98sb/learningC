@@ -17,13 +17,23 @@ void main() {
   scanf("%i", &opc);
 	fflush(stdin);
 
+  if(opc == 2 ){
+    printf("\n Esta pessoa não pode fazer o alistamento militar \n");
+    return 0;
+  }
+
   printf("\n Informe sua idade:");
   scanf("%i", &age);
   fflush(stdin);
 
-  if(opc == 1 && age >= 18){
-    printf("\n Esta pessoa pode fazer o alistamento militar");
+  if(opc != 1 ){
+    printf("Opção inválida");
+    return 0;
+  }
+
+  if( age == 18){
+    printf("\n Esta pessoa pode fazer o alistamento militar \n");
   } else {
-    printf("\n Esta pessoa não pode fazer o alistamento militar");
+    printf("\n Esta pessoa não pode fazer o alistamento militar \n");
   }
 }
