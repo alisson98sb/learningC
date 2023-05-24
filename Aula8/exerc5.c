@@ -2,9 +2,9 @@
 #include<stdlib.h>
 
 
-//5 – Fazer um programa que leia o valor a pagar e a forma de pagamento. Se a forma de pagamento escolhida for 1 - a vista,
+//5 ï¿½ Fazer um programa que leia o valor a pagar e a forma de pagamento. Se a forma de pagamento escolhida for 1 - a vista,
 //calcule um desconto de 11% e informe o valor a pagar, mas se a forma de pagamento escolhida for 2 - a prazo, calcule um
-//acréscimo de 12% e informe o valor a pagar.
+//acrï¿½scimo de 12% e informe o valor a pagar.
 
 void main() {
 	int fp=0;
@@ -12,7 +12,7 @@ void main() {
 	
 	printf("Informe o valor: ");
 	scanf("%f", &vlr);
-	fflush(stdin);
+	fflush(stdin);	
 	
 	printf("Informe a forma de pagamento: ");
 	scanf("%i", &fp);
